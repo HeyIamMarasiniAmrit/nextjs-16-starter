@@ -1,7 +1,29 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+# NY Next App
 
+A clean and modern starter built with the latest versions of:
+
+- **Next.js 16**
+- **React 19**
+- **Tailwind CSS 4**
+
+## Features
+
+- App Router
+- Tailwind CSS 4 (via `@tailwindcss/postcss`)
+- ESLint configured with `eslint-config-next`
+- Ready for development and production
+
+## Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
 First, run the development server:
 
 ```bash
