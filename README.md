@@ -1,29 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-# NY Next App
-
-A clean and modern starter built with the latest versions of:
-
-- **Next.js 16**
-- **React 19**
-- **Tailwind CSS 4**
-
-## Features
-
-- App Router
-- Tailwind CSS 4 (via `@tailwindcss/postcss`)
-- ESLint configured with `eslint-config-next`
-- Ready for development and production
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
 First, run the development server:
 
 ```bash
@@ -38,7 +16,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
